@@ -10,7 +10,7 @@ public class FullTrustProcessLauncher
 # Windows.ApplicationModel.FullTrustProcessLauncher
 
 ## -description
-Activate the full-trust Win32 component of an application from a Universal Windows app component in the same application package.
+Activate the full-trust Win32 component of an application from a Universal Windows app component (non full-trust) in the same application package.
 
 ## -remarks
 The methods in this class may only be called by packages that have the **runFullTrust** capability.
